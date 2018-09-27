@@ -1,0 +1,4 @@
+lookup_plugin:
+  IBMXFORCE_API_KEY: <API_KEY>
+  IBMXFORCE_API_PASS: <API_PASS>
+
